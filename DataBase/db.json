@@ -2,61 +2,61 @@
   "icons": [
     {
       "id": 1,
-      "src": "/Images/icons/icon-1.png",
+      "src": "./Images/icons/icon-1.png",
       "alt": "iconImg-1",
       "text": "سوپرمارکت دیجیکالا"
     },
     {
       "id": 2,
-      "src": "/Images/icons/icon-2.png",
+      "src": "./Images/icons/icon-2.png",
       "alt": "iconImg-2",
       "text": "دریافت وام"
     },
     {
       "id": 3,
-      "src": "/Images/icons/icon-3.png",
+      "src": "./Images/icons/icon-3.png",
       "alt": "iconImg-3",
       "text": "خرید موبایل کارکرده"
     },
     {
       "id": 4,
-      "src": "/Images/icons/icon-4.png",
+      "src": "./Images/icons/icon-4.png",
       "alt": "iconImg-4",
       "text": "طلای دیجیتال"
     },
     {
       "id": 5,
-      "src": "/Images/icons/icon-5.png",
+      "src": "./Images/icons/icon-5.png",
       "alt": "iconImg-5",
       "text": "پلاس"
     },
     {
       "id": 6,
-      "src": "/Images/icons/icon-6.png",
+      "src": "./Images/icons/icon-6.png",
       "alt": "iconImg-6",
       "text": "برای زاگرس"
     },
     {
       "id": 7,
-      "src": "/Images/icons/icon-7.png",
+      "src": "./Images/icons/icon-7.png",
       "alt": "iconImg-7",
       "text": "آیفون 16 برنده شو"
     },
     {
       "id": 8,
-      "src": "/Images/icons/icon-8.png",
+      "src": "./Images/icons/icon-8.png",
       "alt": "iconImg-8",
       "text": "انبارتکانی مد و پوشاک"
     },
     {
       "id": 9,
-      "src": "/Images/icons/icon-9.png",
+      "src": "./Images/icons/icon-9.png",
       "alt": "iconImg-9",
       "text": "دیجیکالا بیزینس"
     },
     {
       "id": 10,
-      "src": "/Images/icons/icon-10.png",
+      "src": "./Images/icons/icon-10.png",
       "alt": "iconImg-10",
       "text": "بیشتر"
     }
@@ -64,121 +64,121 @@
   "storySlider": [
     {
       "id": 1,
-      "src": "/Images/story/storyImg-1.png",
+      "src": "./Images/story/storyImg-1.png",
       "alt": "storyIMG-1",
       "text": "عود کشمیری"
     },
     {
       "id": 2,
-      "src": "/Images/story/storyImg-2.png",
+      "src": "./Images/story/storyImg-2.png",
       "alt": "storyIMG-2",
       "text": "ببین آبسال چه کرده"
     },
     {
       "id": 3,
-      "src": "/Images/story/storyImg-3.png",
+      "src": "./Images/story/storyImg-3.png",
       "alt": "storyIMG-3",
       "text": "راهنمای کامل خرید تبلت 10 تا 15 میلیون تومان"
     },
     {
       "id": 4,
-      "src": "/Images/story/storyImg-4.png",
+      "src": "./Images/story/storyImg-4.png",
       "alt": "storyIMG-4",
       "text": "موتور hlx150"
     },
     {
       "id": 5,
-      "src": "/Images/story/storyImg-5.png",
+      "src": "./Images/story/storyImg-5.png",
       "alt": "storyIMG-5",
       "text": "کلید کاربردی"
     },
     {
       "id": 6,
-      "src": "/Images/story/storyImg-6.png",
+      "src": "./Images/story/storyImg-6.png",
       "alt": "storyIMG-6",
       "text": "خیلی کیوتههه"
     },
     {
       "id": 7,
-      "src": "/Images/story/storyImg-7.png",
+      "src": "./Images/story/storyImg-7.png",
       "alt": "storyIMG-7",
       "text": "واقعا زیبا نیست"
     },
     {
       "id": 8,
-      "src": "/Images/story/storyImg-8.png",
+      "src": "./Images/story/storyImg-8.png",
       "alt": "storyIMG-8",
       "text": "مایع ظرفشویی نذار رو سینکت"
     },
     {
       "id": 9,
-      "src": "/Images/story/storyImg-9.png",
+      "src": "./Images/story/storyImg-9.png",
       "alt": "storyIMG-9",
       "text": "آنباکس به سبک اسپایدر من"
     },
     {
       "id": 10,
-      "src": "/Images/story/storyImg-10.png",
+      "src": "./Images/story/storyImg-10.png",
       "alt": "storyIMG-10",
       "text": "آپشن میخوای؟"
     },
     {
       "id": 11,
-      "src": "/Images/story/storyImg-11.png",
+      "src": "./Images/story/storyImg-11.png",
       "alt": "storyIMG-11",
       "text": "مخصوص دمی بازا"
     },
     {
       "id": 12,
-      "src": "/Images/story/storyImg-12.png",
+      "src": "./Images/story/storyImg-12.png",
       "alt": "storyIMG-12",
       "text": "تجهیزات کمپ جنوب"
     },
     {
       "id": 13,
-      "src": "/Images/story/storyImg-13.png",
+      "src": "./Images/story/storyImg-13.png",
       "alt": "storyIMG-13",
       "text": "مشاور خرید هدفون تا سقف 4 میلیون"
     },
     {
       "id": 14,
-      "src": "/Images/story/storyImg-14.png",
+      "src": "./Images/story/storyImg-14.png",
       "alt": "storyIMG-14",
       "text": "تلویزیون چی بخرم؟"
     },
     {
       "id": 15,
-      "src": "/Images/story/storyImg-15.png",
+      "src": "./Images/story/storyImg-15.png",
       "alt": "storyIMG-15",
       "text": "سر اگزوز ریموس"
     },
     {
       "id": 16,
-      "src": "/Images/story/storyImg-16.png",
+      "src": "./Images/story/storyImg-16.png",
       "alt": "storyIMG-16",
       "text": "برای گوشی خوبه؟"
     },
     {
       "id": 17,
-      "src": "/Images/story/storyImg-17.png",
+      "src": "./Images/story/storyImg-17.png",
       "alt": "storyIMG-17",
       "text": "پرز لباستو بگیر"
     },
     {
       "id": 18,
-      "src": "/Images/story/storyImg-18.png",
+      "src": "./Images/story/storyImg-18.png",
       "alt": "storyIMG-18",
       "text": "تبلت چی بخرم؟"
     },
     {
       "id": 19,
-      "src": "/Images/story/storyImg-19.png",
+      "src": "./Images/story/storyImg-19.png",
       "alt": "storyIMG-19",
       "text": "پانچ دلی"
     },
     {
       "id": 20,
-      "src": "/Images/story/storyImg-20.png",
+      "src": "./Images/story/storyImg-20.png",
       "alt": "storyIMG-20",
       "text": "راهنمای خرید پوشاک تا ده میلیون تومان"
     }
@@ -186,97 +186,97 @@
   "categorizeShopping": [
     {
       "id": 1,
-      "src": "/Images/categorizeShopping/categorizeShopping-1.png",
+      "src": "./Images/categorizeShopping/categorizeShopping-1.png",
       "alt": "img-1",
       "text": "موبایل"
     },
     {
       "id": 2,
-      "src": "/Images/categorizeShopping/categorizeShopping-2.png",
+      "src": "./Images/categorizeShopping/categorizeShopping-2.png",
       "alt": "img-2",
       "text": "کالای دیجیتال"
     },
     {
       "id": 3,
-      "src": "/Images/categorizeShopping/categorizeShopping-3.png",
+      "src": "./Images/categorizeShopping/categorizeShopping-3.png",
       "alt": "img-3",
       "text": "کتاب, لوازم تحریر و هنر"
     },
     {
       "id": 4,
-      "src": "/Images/categorizeShopping/categorizeShopping-4.png",
+      "src": "./Images/categorizeShopping/categorizeShopping-4.png",
       "alt": "img-4",
       "text": "خانه و آشپزخانه"
     },
     {
       "id": 5,
-      "src": "/Images/categorizeShopping/categorizeShopping-5.png",
+      "src": "./Images/categorizeShopping/categorizeShopping-5.png",
       "alt": "img-5",
       "text": "لوازم خانگی برقی"
     },
     {
       "id": 6,
-      "src": "/Images/categorizeShopping/categorizeShopping-6.png",
+      "src": "./Images/categorizeShopping/categorizeShopping-6.png",
       "alt": "img-6",
       "text": "مد و پوشاک"
     },
     {
       "id": 7,
-      "src": "/Images/categorizeShopping/categorizeShopping-7.png",
+      "src": "./Images/categorizeShopping/categorizeShopping-7.png",
       "alt": "img-7",
       "text": "طلا و نقره"
     },
     {
       "id": 8,
-      "src": "/Images/categorizeShopping/categorizeShopping-8.png",
+      "src": "./Images/categorizeShopping/categorizeShopping-8.png",
       "alt": "img-8",
       "text": "آرایشی بهداشتی"
     },
     {
       "id": 9,
-      "src": "/Images/categorizeShopping/categorizeShopping-9.png",
+      "src": "./Images/categorizeShopping/categorizeShopping-9.png",
       "alt": "img-9",
       "text": "تجهیزات پزشکی و سلامت"
     },
     {
       "id": 10,
-      "src": "/Images/categorizeShopping/categorizeShopping-10.png",
+      "src": "./Images/categorizeShopping/categorizeShopping-10.png",
       "alt": "img-10",
       "text": "ورزش و سفر"
     },
     {
       "id": 11,
-      "src": "/Images/categorizeShopping/categorizeShopping-11.png",
+      "src": "./Images/categorizeShopping/categorizeShopping-11.png",
       "alt": "img-11",
       "text": "خودرو و موتورسیکلت"
     },
     {
       "id": 12,
-      "src": "/Images/categorizeShopping/categorizeShopping-12.png",
+      "src": "./Images/categorizeShopping/categorizeShopping-12.png",
       "alt": "img-12",
       "text": "ابزرا آلات و تجهیزات"
     },
     {
       "id": 13,
-      "src": "/Images/categorizeShopping/categorizeShopping-13.png",
+      "src": "./Images/categorizeShopping/categorizeShopping-13.png",
       "alt": "img-13",
       "text": "کارت هدیه و گیفت کارت"
     },
     {
       "id": 14,
-      "src": "/Images/categorizeShopping/categorizeShopping-14.png",
+      "src": "./Images/categorizeShopping/categorizeShopping-14.png",
       "alt": "img-14",
       "text": "کالای خوراکی و اساسی"
     },
     {
       "id": 15,
-      "src": "/Images/categorizeShopping/categorizeShopping-15.png",
+      "src": "./Images/categorizeShopping/categorizeShopping-15.png",
       "alt": "img-15",
       "text": "اسباب بازی , کودک و نوزاد"
     },
     {
       "id": 16,
-      "src": "/Images/categorizeShopping/categorizeShopping-16.png",
+      "src": "./Images/categorizeShopping/categorizeShopping-16.png",
       "alt": "img-16",
       "text": "محصولات بومی و محلی"
     }
@@ -285,154 +285,154 @@
     {
       "id": 1,
       "category": "موبایل",
-      "src1": "/public/Images/clientTaste/phone-1.png",
-      "src2": "/public/Images/clientTaste/phone-2.png",
-      "src3": "/public/Images/clientTaste/phone-3.png",
-      "src4": "/public/Images/clientTaste/phone-4.png"
+      "src1": "./Images/clientTaste/phone-1.png",
+      "src2": "./Images/clientTaste/phone-2.png",
+      "src3": "./Images/clientTaste/phone-3.png",
+      "src4": "./Images/clientTaste/phone-4.png"
     },
     {
       "id": 2,
       "category": "کاور گوشی",
-      "src1": "/public/Images/clientTaste/protector-1.png",
-      "src2": "/public/Images/clientTaste/protector-2.png",
-      "src3": "/public/Images/clientTaste/protector-3.png",
-      "src4": "/public/Images/clientTaste/protector-4.png"
+      "src1": "./Images/clientTaste/protector-1.png",
+      "src2": "./Images/clientTaste/protector-2.png",
+      "src3": "./Images/clientTaste/protector-3.png",
+      "src4": "./Images/clientTaste/protector-4.png"
     },
     {
       "id": 3,
       "category": "هدفون و هدست",
-      "src1": "/public/Images/clientTaste/headphone-1.png",
-      "src2": "/public/Images/clientTaste/headphone-2.png",
-      "src3": "/public/Images/clientTaste/headphone-3.png",
-      "src4": "/public/Images/clientTaste/headphone-4.png"
+      "src1": "./Images/clientTaste/headphone-1.png",
+      "src2": "./Images/clientTaste/headphone-2.png",
+      "src3": "./Images/clientTaste/headphone-3.png",
+      "src4": "./Images/clientTaste/headphone-4.png"
     },
     {
       "id": 4,
       "category": "لپتاپ",
-      "src1": "/public/Images/clientTaste/laptop-1.png",
-      "src2": "/public/Images/clientTaste/laptop-2.png",
-      "src3": "/public/Images/clientTaste/laptop-3.png",
-      "src4": "/public/Images/clientTaste/laptop-4.png"
+      "src1": "./Images/clientTaste/laptop-1.png",
+      "src2": "./Images/clientTaste/laptop-2.png",
+      "src3": "./Images/clientTaste/laptop-3.png",
+      "src4": "./Images/clientTaste/laptop-4.png"
     }
   ],
   "clientTaste2": [
     {
       "id": 1,
       "category": "اسپیکر",
-      "src1": "/public/Images/clientTaste2/speaker-1.jpg",
-      "src2": "/public/Images/clientTaste2/speaker-2.png",
-      "src3": "/public/Images/clientTaste2/speaker-3.png",
-      "src4": "/public/Images/clientTaste2/speaker-4.png"
+      "src1": "./Images/clientTaste2/speaker-1.jpg",
+      "src2": "./Images/clientTaste2/speaker-2.png",
+      "src3": "./Images/clientTaste2/speaker-3.png",
+      "src4": "./Images/clientTaste2/speaker-4.png"
     },
     {
       "id": 2,
       "category": "ساعت مردانه",
-      "src1": "/public/Images/clientTaste2/clock-1.png",
-      "src2": "/public/Images/clientTaste2/clock-2.png",
-      "src3": "/public/Images/clientTaste2/clock-3.png",
-      "src4": "/public/Images/clientTaste2/clock-4.png"
+      "src1": "./Images/clientTaste2/clock-1.png",
+      "src2": "./Images/clientTaste2/clock-2.png",
+      "src3": "./Images/clientTaste2/clock-3.png",
+      "src4": "./Images/clientTaste2/clock-4.png"
     },
     {
       "id": 3,
       "category": "ساعت زنانه",
-      "src1": "/public/Images/clientTaste2/clockw-1.png",
-      "src2": "/public/Images/clientTaste2/clockw-2.png",
-      "src3": "/public/Images/clientTaste2/clockw-3.jpg",
-      "src4": "/public/Images/clientTaste2/clockw-4.png"
+      "src1": "./Images/clientTaste2/clockw-1.png",
+      "src2": "./Images/clientTaste2/clockw-2.png",
+      "src3": "./Images/clientTaste2/clockw-3.jpg",
+      "src4": "./Images/clientTaste2/clockw-4.png"
     },
     {
       "id": 4,
       "category": "لوازم خودرو",
-      "src1": "/public/Images/clientTaste2/car-1.png",
-      "src2": "/public/Images/clientTaste2/car-2.png",
-      "src3": "/public/Images/clientTaste2/car-3.png",
-      "src4": "/public/Images/clientTaste2/car-4.png"
+      "src1": "./Images/clientTaste2/car-1.png",
+      "src2": "./Images/clientTaste2/car-2.png",
+      "src3": "./Images/clientTaste2/car-3.png",
+      "src4": "./Images/clientTaste2/car-4.png"
     }
   ],
   "mostPopularBrands": [
     {
       "id": 1,
-      "src": "/Images/mostPopularBrand/mostPopularBrands-1.png",
+      "src": "./Images/mostPopularBrand/mostPopularBrands-1.png",
       "alt": "mostPopularImages_1"
     },
     {
       "id": 3,
-      "src": "/Images/mostPopularBrand/mostPopularBrands-3.png",
+      "src": "./Images/mostPopularBrand/mostPopularBrands-3.png",
       "alt": "mostPopularImages_3"
     },
     {
       "id": 4,
-      "src": "/Images/mostPopularBrand/mostPopularBrands-4.png",
+      "src": "./Images/mostPopularBrand/mostPopularBrands-4.png",
       "alt": "mostPopularImages_4"
     },
     {
       "id": 5,
-      "src": "/Images/mostPopularBrand/mostPopularBrands-5.png",
+      "src": "./Images/mostPopularBrand/mostPopularBrands-5.png",
       "alt": "mostPopularImages_5"
     },
     {
       "id": 6,
-      "src": "/Images/mostPopularBrand/mostPopularBrands-6.png",
+      "src": "./Images/mostPopularBrand/mostPopularBrands-6.png",
       "alt": "mostPopularImages_6"
     },
     {
       "id": 7,
-      "src": "/Images/mostPopularBrand/mostPopularBrands-7.png",
+      "src": "./Images/mostPopularBrand/mostPopularBrands-7.png",
       "alt": "mostPopularImages_7"
     },
     {
       "id": 8,
-      "src": "/Images/mostPopularBrand/mostPopularBrands-8.png",
+      "src": "./Images/mostPopularBrand/mostPopularBrands-8.png",
       "alt": "mostPopularImages_8"
     },
     {
       "id": 9,
-      "src": "/Images/mostPopularBrand/mostPopularBrands-9.png",
+      "src": "./Images/mostPopularBrand/mostPopularBrands-9.png",
       "alt": "mostPopularImages_9"
     },
     {
       "id": 10,
-      "src": "/Images/mostPopularBrand/mostPopularBrands-10.png",
+      "src": "./Images/mostPopularBrand/mostPopularBrands-10.png",
       "alt": "mostPopularImages_10"
     },
     {
       "id": 11,
-      "src": "/Images/mostPopularBrand/mostPopularBrands-11.png",
+      "src": "./Images/mostPopularBrand/mostPopularBrands-11.png",
       "alt": "mostPopularImages_11"
     },
     {
       "id": 12,
-      "src": "/Images/mostPopularBrand/mostPopularBrands-12.png",
+      "src": "./Images/mostPopularBrand/mostPopularBrands-12.png",
       "alt": "mostPopularImages_12"
     },
     {
       "id": 13,
-      "src": "/Images/mostPopularBrand/mostPopularBrands-13.png",
+      "src": "./Images/mostPopularBrand/mostPopularBrands-13.png",
       "alt": "mostPopularImages_13"
     },
     {
       "id": 14,
-      "src": "/Images/mostPopularBrand/mostPopularBrands-14.png",
+      "src": "./Images/mostPopularBrand/mostPopularBrands-14.png",
       "alt": "mostPopularImages_14"
     },
     {
       "id": 15,
-      "src": "/Images/mostPopularBrand/mostPopularBrands-15.png",
+      "src": "./Images/mostPopularBrand/mostPopularBrands-15.png",
       "alt": "mostPopularImages_15"
     },
     {
       "id": 16,
-      "src": "/Images/mostPopularBrand/mostPopularBrands-16.png",
+      "src": "./Images/mostPopularBrand/mostPopularBrands-16.png",
       "alt": "mostPopularImages_16"
     },
     {
       "id": 17,
-      "src": "/Images/mostPopularBrand/mostPopularBrands-17.png",
+      "src": "./Images/mostPopularBrand/mostPopularBrands-17.png",
       "alt": "mostPopularImages_17"
     },
     {
       "id": 18,
-      "src": "/Images/mostPopularBrand/mostPopularBrands-18.png",
+      "src": "./Images/mostPopularBrand/mostPopularBrands-18.png",
       "alt": "mostPopularImages_18"
     }
   ],
@@ -567,78 +567,78 @@
   "partnerShip": [
     {
       "id": 1,
-      "src": "/Images/partnerShip/partnerShip-1/partnerShip-1.png",
+      "src": "./Images/partnerShip/partnerShip-1/partnerShip-1.png",
       "alt": "img-1"
     },
     {
       "id": 2,
-      "src": "/Images/partnerShip/partnerShip-1/partnerShip-2.png",
+      "src": "./Images/partnerShip/partnerShip-1/partnerShip-2.png",
       "alt": "img-2"
     },
     {
       "id": 3,
-      "src": "/Images/partnerShip/partnerShip-1/partnerShip-3.png",
+      "src": "./Images/partnerShip/partnerShip-1/partnerShip-3.png",
       "alt": "img-3"
     },
     {
       "id": 4,
-      "src": "/Images/partnerShip/partnerShip-1/partnerShip-4.png",
+      "src": "./Images/partnerShip/partnerShip-1/partnerShip-4.png",
       "alt": "img-4"
     }
   ],
   "partnerShip2": [
     {
       "id": 1,
-      "src": "/Images/partnerShip/partnerShip-2/partnerShip2-1.png",
+      "src": "./Images/partnerShip/partnerShip-2/partnerShip2-1.png",
       "alt": "img-1"
     },
     {
       "id": 2,
-      "src": "/Images/partnerShip/partnerShip-2/partnerShip2-2.png",
+      "src": "./Images/partnerShip/partnerShip-2/partnerShip2-2.png",
       "alt": "img-2"
     }
   ],
   "partnerShip3": [
     {
       "id": 1,
-      "src": "/Images/partnerShip/partnerShip-3/partnerShip3-1.png",
+      "src": "./Images/partnerShip/partnerShip-3/partnerShip3-1.png",
       "alt": "img-1"
     },
     {
       "id": 2,
-      "src": "/Images/partnerShip/partnerShip-3/partnerShip3-2.gif",
+      "src": "./Images/partnerShip/partnerShip-3/partnerShip3-2.gif",
       "alt": "img-2"
     }
   ],
   "partnerShip4": [
     {
       "id": 1,
-      "src": "/Images/partnerShip/partnerShip-4/partnership4-1.png",
+      "src": "./Images/partnerShip/partnerShip-4/partnership4-1.png",
       "alt": "img-1"
     }
   ],
   "readingBlog": [
     {
       "id": 1,
-      "src": "/Images/ReadingBlog/readingBlog-1.png",
+      "src": "./Images/ReadingBlog/readingBlog-1.png",
       "alt": "img-1",
       "text": "جنگ بعد صنعت گیم بر سر کنسول دستی خواهد بود."
     },
     {
       "id": 2,
-      "src": "/Images/ReadingBlog/readingBlog-2.png",
+      "src": "./Images/ReadingBlog/readingBlog-2.png",
       "alt": "img-2",
       "text": "بهترین فیلم های آخرالزمانی جدید که باید ببینید"
     },
     {
       "id": 3,
-      "src": "/Images/ReadingBlog/readingBlog-3.png",
+      "src": "./Images/ReadingBlog/readingBlog-3.png",
       "alt": "img-3",
       "text": "آموزش نکات کلیدی پرورش گیاه"
     },
     {
       "id": 4,
-      "src": "/Images/ReadingBlog/readingBlog-4.png",
+      "src": "./Images/ReadingBlog/readingBlog-4.png",
       "alt": "img-4",
       "text": "هرآنچه درباره فیلم چهارشگفت انگیز:نخستین گام ها  میدانیم"
     }
@@ -838,31 +838,31 @@
   "features": [
     {
       "id": 1,
-      "src": "/Images/SVG/expressDelivery.svg",
+      "src": "./Images/SVG/expressDelivery.svg",
       "alt": "features-1",
       "text": "امکان تحویل اکسپرس"
     },
     {
       "id": 2,
-      "src": "/Images/SVG/payInPlace.svg",
+      "src": "./Images/SVG/payInPlace.svg",
       "alt": "features-2",
       "text": "امکان پرداخت در محل"
     },
     {
       "id": 3,
-      "src": "/Images/SVG/24-7Support.svg",
+      "src": "./Images/SVG/24-7Support.svg",
       "alt": "features-3",
       "text": "۷ روز ﻫﻔﺘﻪ، ۲۴ ﺳﺎﻋﺘﻪ"
     },
     {
       "id": 4,
-      "src": "/Images/SVG/7DaysReturn.svg",
+      "src": "./Images/SVG/7DaysReturn.svg",
       "alt": "features-4",
       "text": "هفت روز ضمانت بازگشت کالا"
     },
     {
       "id": 5,
-      "src": "/Images/SVG/itemOriginality.svg",
+      "src": "./Images/SVG/itemOriginality.svg",
       "alt": "features-5",
       "text": "ضمانت اصل بودن کالا"
     }
