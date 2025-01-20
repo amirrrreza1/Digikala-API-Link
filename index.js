@@ -63,6 +63,8 @@ const server = http.createServer((req, res) => {
     res.write(JSON.stringify(db.digiChild));
   } else if (url === "/amazingSlider") {
     res.write(JSON.stringify(db.amazingSlider));
+  } else if (url === "/popularCities") {
+    res.write(JSON.stringify(db.popularCities));
   } else {
     res.writeHead(404, { "Content-Type": "application/json" });
     res.write(JSON.stringify({ error: "Not Found" }));
