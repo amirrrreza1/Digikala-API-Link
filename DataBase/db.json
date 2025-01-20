@@ -1712,5 +1712,99 @@
       "area": "کیلان",
       "city": "تهران"
     }
+  ],
+  "HighlightDigiSevices": [
+    {
+      "id": 1,
+      "src": "./Images/DigiServisec/offer.png",
+      "text": "تخفیف موبایل کارکرده"
+    },
+    {
+      "id": 2,
+      "src": "./Images/DigiServisec/cheks.png",
+      "text": "خرید چکی"
+    },
+    {
+      "id": 3,
+      "src": "./Images/DigiServisec/giftCard.png",
+      "text": "کارت هدیه"
+    },
+    {
+      "id": 4,
+      "src": "./Images/DigiServisec/AmazingOffer.png",
+      "text": "پیشنهاد دیجیکالا"
+    },
+    {
+      "id": 5,
+      "src": "./Images/DigiServisec/digiclub.png",
+      "text": "دیجی کلاب"
+    },
+    {
+      "id": 6,
+      "src": "./Images/DigiServisec/BeASeller.png",
+      "text": "فروشنده شوید"
+    }
+  ],
+  "DigiServesec": [
+    {
+      "id": 1,
+      "src": "../../public/Images/DigiServisec/DigikalaServisec-1.png",
+      "texx": "وام فوری"
+    },
+    {
+      "id": 2,
+      "src": "../../public/Images/DigiServisec/DigikalaServisec-2.png",
+      "texx": "خرید طلای دیجیتال"
+    },
+    {
+      "id": 3,
+      "src": "../../public/Images/DigiServisec/DigikalaServisec-3.png",
+      "texx": "207 ببر! "
+    },
+    {
+      "id": 4,
+      "src": "../../public/Images/DigiServisec/DigikalaServisec-4.png",
+      "texx": "محصولات بومی و محلی"
+    },
+    {
+      "id": 5,
+      "src": "../../public/Images/DigiServisec/DigikalaServisec-5.png",
+      "texx": "فروشگاه حضوری"
+    },
+    {
+      "id": 6,
+      "src": "../../public/Images/DigiServisec/DigikalaServisec-6.png",
+      "texx": "دیجیکالا سرویس"
+    },
+    {
+      "id": 7,
+      "src": "../../public/Images/DigiServisec/DigikalaServisec-7.png",
+      "texx": "پلاس"
+    },
+    {
+      "id": 8,
+      "src": "../../public/Images/DigiServisec/DigikalaServisec-8.png",
+      "texx": "دیجی استایل"
+    },
+    {
+      "id": 9,
+      "src": "../../public/Images/DigiServisec/DigikalaServisec-9.png",
+      "texx": "دیجیکالا بیزنس"
+    },
+    {
+      "id": 10,
+      "src": "../../public/Images/DigiServisec/DigikalaServisec-10.png",
+      "texx": "دیجیکالا مهر"
+    },
+    {
+      "id": 11,
+      "src": "../../public/Images/DigiServisec/DigikalaServisec-11.png",
+      "texx": "پیندو"
+    },
+    {
+      "id": 12,
+      "src": "../../public/Images/DigiServisec/DigikalaServisec-12.png",
+      "texx": "فیدیبو"
+    }
   ]
 }

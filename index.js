@@ -67,6 +67,10 @@ const server = http.createServer((req, res) => {
     res.write(JSON.stringify(db.popularCities));
   } else if (url === "/allCities") {
     res.write(JSON.stringify(db.allCities));
+  } else if (url === "/HighlightDigiSevices") {
+    res.write(JSON.stringify(db.HighlightDigiSevices));
+  } else if (url === "/DigiServesec") {
+    res.write(JSON.stringify(db.DigiServesec));
   } else {
     res.writeHead(404, { "Content-Type": "application/json" });
     res.write(JSON.stringify({ error: "Not Found" }));
