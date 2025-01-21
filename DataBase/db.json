@@ -1812,6 +1812,7 @@
       "id": 1,
       "text": "موبایل",
       "src": "./Images/SVG/megaMenuIcon1.svg",
+      "srcHover": "./Images/SVG/megaMenuIcon1red.svg",
       "subMenu": [
         {
           "id": 1,
