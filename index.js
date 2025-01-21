@@ -71,6 +71,8 @@ const server = http.createServer((req, res) => {
     res.write(JSON.stringify(db.HighlightDigiSevices));
   } else if (url === "/DigiServesec") {
     res.write(JSON.stringify(db.DigiServesec));
+  } else if (url === "/megaMenu") {
+    res.write(JSON.stringify(db.megaMenu));
   } else {
     res.writeHead(404, { "Content-Type": "application/json" });
     res.write(JSON.stringify({ error: "Not Found" }));
